@@ -1,13 +1,14 @@
 <p align="center">
 <img src="https://i.imgur.com/GJePY3b.png" alt="azure logo"/>
 </p>
-<h1>Creating and Deploying Resource Groups in Microsoft Azure</h1>
-This tutorial provides a step-by-step guide on how to create and deploy resource groups in Microsoft Azure.<br />
+<h1>From Zero to Organized: Setting up a Resource Group with Storage using Azure</h1>
+This tutorial offers a detailed walkthrough on creating resource groups and deploying storage within them using Microsoft Azure.<br />
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Resource Manager)
+- Microsoft Azure
 - Azure Portal
 - Resource Groups
+- Storage Account
 
 <h2>Operating Systems Used</h2>
 
@@ -19,7 +20,9 @@ This tutorial provides a step-by-step guide on how to create and deploy resource
 - Step 2: Search for Resource Group
 - Step 3: Create a new Resource Group via the Portal
 - Step 4: Validate Resource Group settings (location, naming convention, tags)
-- Step 5: Automate deployment 
+- Step 5: Automate deployment
+- Step 6: Create Storage
+- Step 7: Automate Deployment
 
 <h2>Deployment and Configuration Steps</h2>
 
