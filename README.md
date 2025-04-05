@@ -40,7 +40,6 @@ When found, click “Create”.
 <img src="https://i.imgur.com/dAWdymO.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 <p>
-  
 </p>
 <br />
 Enter the required details such as subscription, region, and unique resource name. For this tutorial, the name of the resource group is "Example-1".
@@ -49,7 +48,7 @@ Enter the required details such as subscription, region, and unique resource nam
 </p>
 <p>
 <p>
-  Tags can be applied for better organization.
+Tags can be applied for better organization.
 <img src="https://i.imgur.com/D44gcAk.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 Next, you will review to ensure all of your information is correct for the resource group.
@@ -58,33 +57,29 @@ Next, you will review to ensure all of your information is correct for the resou
 <img src="https://i.imgur.com/L4QWXJX.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 <p>
-
 <br /><br />
-
-After reviewing, click 'Create' and check the notifications (bell icon in the top-right region) to ensure the deployment was successful.
+After reviewing, click 'Create'.
 <p>
 <img src="https://i.imgur.com/aqTAn5B.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 <p>
-  
+Check the notifications (bell icon in the top-right region) to ensure the deployment was successful.  
 <p>
 <img src="https://i.imgur.com/bRY1vPt.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 <p> 
 Access your resource group via the notifications, or search for 'resource group.' If it doesn't appear immediately, try refreshing the page.
-  
 <p>
 <img src="https://i.imgur.com/OZeImai.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 <p>    
-
 Select your resource group, then click create.
 </p>
 <p>
 <img src="https://i.imgur.com/s0M25UJ.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 <p> 
- Search for the storage account and choose create. 
+Search for the storage account and choose create. 
 </p>
 <p>
 <img src="https://i.imgur.com/6B7LGd4.png" height="80%" width="80%" alt="Azure Tags and Management"/>
@@ -95,7 +90,7 @@ Next, fill out the details for the storage account, ensuring that the correct re
 <img src="https://i.imgur.com/v9zLy1O.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 <p>
-  Check notifications for deployment status
+Check notifications for deployment status
 <p>
 <img src="https://i.imgur.com/wgzWNnm.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
@@ -105,8 +100,8 @@ When deployment is successful, you will now have a storage account within your r
 <img src="https://i.imgur.com/uNQOpi6.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 <p>
-
 <br /><br />
-Select your resource group, then click create. Search for the storage account and choose create. Next, fill out the details for the storage account, ensuring that the correct resource group is chosen. Configure the storage's networking, data protection, encryption, and tags to your preference, and click create. Check notifications for deployment status. When deployment is successful, you will now have a storage account within your resource group.
+You've done it! Happy Clouding!
+
 
 
