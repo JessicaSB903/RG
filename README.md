@@ -17,15 +17,16 @@ This tutorial offers a detailed walkthrough on creating resource groups and depl
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Step 1: Log into the Azure Portal
-- Step 2: Search for Resource Group
-- Step 3: Create a new Resource Group via the Portal
-- Step 4: Validate Resource Group settings (location, naming convention, tags)
+- Step 2: Search for resource group
+- Step 3: Create a new resource group 
+- Step 4: Validate resource group settings 
 - Step 5: Automate deployment
-- Step 6: Create Storage
+- Step 6: Create Storage within resource group
+- Step 7: Validate Storage settings
 - Step 7: Automate Deployment
 
 <h2>Deployment and Configuration Steps</h2>
-Begin by signing into the Azure Portal.(https://azure.microsoft.com)
+<div align="center">Begin by signing into the Azure Portal.(https://azure.microsoft.com)
 <p>
 <img src="https://i.imgur.com/Fep8JRh.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
