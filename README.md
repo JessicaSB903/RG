@@ -42,7 +42,6 @@ When found, click “Create”.
 </p>
 <p>
 </p>
-<br />
 Enter the required details such as subscription, region, and unique resource name. For this tutorial, the name of the resource group is "Example-1".
 <p>
 <img src="https://i.imgur.com/GjAFK8b.png" height="80%" width="80%" alt="Azure Tags and Management"/>
@@ -58,7 +57,6 @@ Next, you will review to ensure all of your information is correct for the resou
 <img src="https://i.imgur.com/L4QWXJX.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 <p>
-<br /><br />
 After reviewing, click 'Create'.
 <p>
 <img src="https://i.imgur.com/aqTAn5B.png" height="80%" width="80%" alt="Azure Tags and Management"/>
