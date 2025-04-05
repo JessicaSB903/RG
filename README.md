@@ -1,63 +1,75 @@
-# RG
-# azure-resource-group-creation
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Azure Logo"/>
+<img src="https://i.imgur.com/GJePY3b.png" alt="azure logo"/>
 </p>
-
 <h1>Creating and Deploying Resource Groups in Microsoft Azure</h1>
-This tutorial outlines the process of creating and deploying Resource Groups within Microsoft Azure using automated scripts and the Azure portal.<br />
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Create and Deploy Resource Groups in Azure](https://www.youtube.com)
-
+This tutorial provides a step-by-step guide on how to create and deploy resource groups in Microsoft Azure.<br />
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Resource Manager)
 - Azure Portal
-- Azure CLI / PowerShell
 - Resource Groups
-- Infrastructure as Code
 
 <h2>Operating Systems Used</h2>
 
-- Windows 10 / 11
-- Windows Server 2022 (for PowerShell-based scripting, if applicable)
+- Windows 10 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Step 1: Log into the Azure Portal
-- Step 2: Create a new Resource Group via the Portal or CLI
-- Step 3: Validate Resource Group settings (location, naming convention, tags)
-- Step 4: Automate deployment using script (optional)
+- Step 2: Search for Resource Group
+- Step 3: Create a new Resource Group via the Portal
+- Step 4: Validate Resource Group settings (location, naming convention, tags)
+- Step 5: Automate deployment 
 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Azure Resource Group Creation"/>
+<img src="https://i.imgur.com/Fep8JRh.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 <p>
-Begin by signing into the Azure Portal. Navigate to the “Resource groups” section and select “Create”. Enter the required details such as subscription, region, and a unique resource group name. Tags can be applied for better organization.
+  
+<p>
+<img src="https://i.imgur.com/ERyklee.png" height="80%" width="80%" alt="Azure Tags and Management"/>
+</p>
+<p>
+  
+<p>
+<img src="https://i.imgur.com/dAWdymO.png" height="80%" width="80%" alt="Azure Tags and Management"/>
+</p>
+<p>
+Begin by signing into the Azure Portal.(https://azure.microsoft.com) Navigate to the search bar within Azure and type “Resource groups”. When found, click “Create”.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Azure CLI Resource Group Creation"/>
+<img src="https://i.imgur.com/GjAFK8b.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 <p>
-Alternatively, use the Azure CLI or PowerShell to create a resource group. For example:
+<p>
+<img src="https://i.imgur.com/D44gcAk.png" height="80%" width="80%" alt="Azure Tags and Management"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/L4QWXJX.png" height="80%" width="80%" alt="Azure Tags and Management"/>
+</p>
+<p>
+
+Enter the required details such as subscription, region, and unique resource name. For this tutorial, the name of the resource group is "Example-1". Tags can be applied for better organization. Next, you will review to ensure all of your information is correct for the resource group.
 <br /><br />
-<code>az group create --name MyResourceGroup --location eastus</code><br />
-or<br />
-<code>New-AzResourceGroup -Name "MyResourceGroup" -Location "East US"</code><br /><br />
-This allows for easy automation and repeatable deployments across environments.
-</p>
-<br />
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Azure Tags and Management"/>
+<img src="https://i.imgur.com/aqTAn5B.png" height="80%" width="80%" alt="Azure Tags and Management"/>
 </p>
 <p>
-After creation, resource groups can be managed using Azure policies, role-based access control, and tagging structures to ensure proper cost management and compliance. This setup provides a foundational structure for deploying additional Azure services efficiently.
+<p>
+<img src="https://i.imgur.com/bRY1vPt.png" height="80%" width="80%" alt="Azure Tags and Management"/>
+</p>
+<p>  
+<p>
+<img src="https://i.imgur.com/OZeImai.png" height="80%" width="80%" alt="Azure Tags and Management"/>
+</p>
+<p>    
+After reviewing, click 'Create' and check the notifications (bell icon in the top-right region) to ensure the deployment was successful. Access your resource group via the notifications, or search 'resource group.' If it doesn't appear immediately, try refreshing the page.
 </p>
 <br />
