@@ -6,7 +6,6 @@ This tutorial offers a detailed walkthrough on creating resource groups and depl
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure
-- Azure Portal
 - Resource Groups
 - Storage Account
 
