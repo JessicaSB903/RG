@@ -101,5 +101,7 @@ When deployment is successful, you will now have a storage account within your r
 <br /><br />
 You've done it! Happy Clouding!
 
+** Remember to delete Resource Groups after use to minimize costs!**
+
 
 
